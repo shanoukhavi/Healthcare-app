@@ -1,4 +1,4 @@
-#Healthcare Application
+##Healthcare Application
 
 ## Introduction
 Welcome to our Healthcare Application, designed to simplify managing your health-related needs directly from your Android device. Developed using Java in Android Studio, this application provides a seamless interface for accessing a wide range of healthcare services including laboratory tests, medication orders, and doctor appointments.
